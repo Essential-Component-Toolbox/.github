@@ -4,6 +4,10 @@
 ## Purpose
 
 ---
+## Newest Component
+* [GitHub Repo]()
+* [NPM Page]()
+---
 ## Tools Used
 
 * Languages & Frameworks
