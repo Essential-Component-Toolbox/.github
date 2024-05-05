@@ -24,3 +24,7 @@
 * Storing & Publishing
   * [GitHub]()
   * [NPM]()
+
+---
+## Extra Note
+All of these components are currently only being managed by one person as a way to learn and improve at programming and numerous other skills.
