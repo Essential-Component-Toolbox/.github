@@ -4,17 +4,13 @@
 ## Purpose
 
 ---
-## Newest Component
-* [GitHub Repo]()
-* [NPM Page]()
----
 ## Tools Used
 
 * Languages & Frameworks
-  * [HTML]()
-  * [CSS]()
-  * [JavaScript]()
-    * [LitElement]()
+  * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    * [LitElement](https://lit.dev/)
 * Planning & Creation
   * [Penpot]()
   * [Canva]()
