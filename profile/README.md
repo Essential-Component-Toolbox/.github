@@ -1,4 +1,4 @@
-# Essential Component Toolbox (@est-comp-tbox)
+# Essential Component Toolbox (@ect)
 
 ---
 ## Purpose
